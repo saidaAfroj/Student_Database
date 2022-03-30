@@ -1,4 +1,4 @@
-# Project Name - *Simple Student Database Application *
+# Project Name - *Simple Student Database Application*
 
 **Student_Database** Is a simple Java Project that can do the following:
 
